@@ -11,12 +11,12 @@ public class LessonStrings {
 		System.out.println("the man went to the ____ and had a ____");
 		
 		String adjective = "game";
-		String noun = "blast";
+		String noun = "blastsssss";
 		
 		System.out.println("the man went to the " + adjective + " and had a " + noun + " ");
 		
 		
-		//
+		//Nico test 2 
 	
 	}
 
