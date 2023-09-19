@@ -15,7 +15,7 @@ public class LessonStrings {
 		
 		System.out.println("the man went to the " + adjective + " and had a " + noun + " ");
 		
-		
+		//test one thing
 	
 	}
 
